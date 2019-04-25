@@ -1,0 +1,2 @@
+serviceClass: library.client.GreetingService
+path: E7EF62A4B21D86B359568AAD47353279.gwt.rpc

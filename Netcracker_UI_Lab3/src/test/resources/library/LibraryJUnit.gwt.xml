@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="Library">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='library.Library' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/Library/greet" class="library.server.GreetingServiceImpl" />
+
+</module>

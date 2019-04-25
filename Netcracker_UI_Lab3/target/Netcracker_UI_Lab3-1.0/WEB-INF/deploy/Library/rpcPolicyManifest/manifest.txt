@@ -1,0 +1,3 @@
+# Module Library
+# RPC service class, partial path of RPC policy file
+library.client.GreetingService, E7EF62A4B21D86B359568AAD47353279.gwt.rpc
